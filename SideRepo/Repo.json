@@ -142,16 +142,9 @@
       "tintColor": "000000",
       "subtitle": "Linux shell for iOS",
       "localizedDescription": "iSH is a project to get a Linux shell environment running locally on your iOS device, using a usermode x86 emulator.",
-      "permissions": [
-        {
-          "type": "photos",
-          "usageDescription": "Allows iNDS to use images from your Photo Library as game artwork."
-        }
-      ],
       "screenshotURLs": [
-        "https://i.imgur.com/ap8Er1K.png",
-        "https://i.imgur.com/EgfrobI.png",
-        "https://i.imgur.com/9gLwHGD.png",
+        "https://ish.app/assets/front-iphone-full.png",
+        "https://user-images.githubusercontent.com/64176728/216813647-1f660131-b5fe-4951-b46b-44fcfad0c2f2.png"
       ],
       "version": "Build 472",
       "versionDate": "2023-03-30T06:07:34+00:00",
