@@ -135,36 +135,50 @@
       ]
     },
     {
-      "name": "iNDS",
-      "bundleIdentifier": "net.nerd.iNDS",
-      "developerName": "iNDS Team",
-      "subtitle": "Revival of the Nintendo DS emulator for iOS.",
-      "version": "1.10.8",
-      "versionDate": "2021-03-01T22:39:20Z",
-      "versionDescription": "Version 1.10.8 fixes the cover art system, thus closing #190. ~~There also appears to be an issue with the previous Cydia release being corrupted, so hopefully, that is fixed in this version.~~\r\n\r\n**Full Changelog**\r\n- Fixed cover art system (#203). Thanks, @unlmtd.\r\n- Fixed compilation errors (#191). Thanks, @jdkula.",
-      "downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.8/iNDS.ipa",
-      "localizedDescription": "iNDS is a derivation of the previous Nintendo DS emulator apps for iOS: nds4ios and Nitrogen. The iNDS Team release of iNDS is a fork of the original iNDS emulator by William Cobb. The iNDS Team aims to create a version that is driven by support from the community, adding trusted contributors to the team over time so that pull requests and issues do not sit untouched.\n\nCurrently, emulation is powered by the DeSmuME threaded ARM interpreter and runs at nearly full speed on the iPhone 5 and above. Due to the need to mmap the entire ROM into memory, older devices with only 256MB of RAM are not supported. These devices include the iPod Touch 4, iPad 1, iPhone 3GS, and anything below those devices.",
-      "iconURL": "https://i.imgur.com/DbWJeF8.png",
-      "tintColor": "#fc2125",
+      "name": "Enmity for Discord",
+      "bundleIdentifier": "net.emnity.discord",
+      "developerName": "Stossy11",
+      "subtitle": "BetterDiscord For iOS",
+      "version": "1.0.0",
+      "versionDate": "2023-04-01T22:39:20Z",
+      "versionDescription": "Enimty 1.0.0 allows you to install plugins for the Discord app and enjoy new functionality in the app. You can also install themes to change the look and appearance of the Discord app.",
+      "downloadURL": "https://github.com/stossy11/stossy11.github.io/releases/download/Beta/Enmity.ipa",
+      "localizedDescription": "Enimty allows you to install plugins for the Discord app and enjoy new functionality in the app. You can also install themes to change the look and appearance of the Discord app.",
+      "iconURL": "https://iosninja.io/img/ipas/enmity.jpeg",
+      "tintColor": "#5663F7",
       "size": 8553596,
       "permissions": [
+         {
+          "type": "camera",
+          "usageDescription": "To Enable Video on Video Calls"
+        },
         {
           "type": "photos",
-          "usageDescription": "Allows iNDS to use images from your Photo Library as game artwork."
+          "usageDescription": "To Send Photos To other People"
+        },
+        {
+          "type": "microphone",
+          "usageDescription": "To Talk When Calling Someone"
         }
       ],
       "screenshotURLs": [
-        "https://i.imgur.com/ap8Er1K.png",
-        "https://i.imgur.com/EgfrobI.png",
-        "https://i.imgur.com/9gLwHGD.png"
+        "https://user-images.githubusercontent.com/30734036/186782568-7407933d-b5cc-4b54-9311-3da04c9e1565.png",
+        "https://user-images.githubusercontent.com/30734036/186782557-23708624-e974-45b2-a7f0-9b95935d02d2.png",
       ],
       "versions": [
         {
-          "version": "1.10.8",
-          "date": "2021-03-01T22:39:20Z",
-          "downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.8/iNDS.ipa",
+          "version": "1.0.0",
+          "date": "2023-01-04",
+          "downloadURL": "https://github.com/enmity-mod/tweak/releases/download/v2.1.4/Enmity.ipa",
           "localizedDescription": "Version 1.10.8 fixes the cover art system, thus closing #190. ~~There also appears to be an issue with the previous Cydia release being corrupted, so hopefully, that is fixed in this version.~~\r\n\r\n**Full Changelog**\r\n- Fixed cover art system (#203). Thanks, @unlmtd.\r\n- Fixed compilation errors (#191). Thanks, @jdkula.",
           "size": 8553596
+        },
+        {
+          "version": "1.0.0 Dev",
+          "date": "2023-01-04",
+          "downloadURL": "https://github.com/enmity-mod/tweak/releases/download/v2.1.4/Enmity.Development.ipa",
+          "localizedDescription": "Same one as before but Dev Version",
+          "size": 33200000
         }
       ]
     },
