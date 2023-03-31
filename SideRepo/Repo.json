@@ -980,7 +980,7 @@
       "caption": "Osu For IOS has now been added to Sidestore Or altstore if your using that",
       "tintColor": "#505050",
       "imageURL": "https://raw.githubusercontent.com/ppy/osu/master/osu.iOS/Assets.xcassets/AppIcon.appiconset/iPhoneApp3x.png",
-      "appID": "science.xnu.undecimus",
+      "appID": "sh.ppy.osulazer",
       "date": "2023-03-31",
       "notify": true
     },
