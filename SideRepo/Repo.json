@@ -44,7 +44,7 @@
     {
       "name": "Osu!",
       "bundleIdentifier": "sh.ppy.osulazer",
-      "developerName": "PPY on Github\u00e5rd",
+      "developerName": "PPY on Github",
       "version": "2023.207.0",
       "versionDate": "2023-09-18T23:59:49Z",
       "versionDescription": "# v1.13.2\n\n",
@@ -975,14 +975,14 @@
   ],
   "news": [
     {
-      "title": "unc0ver 5.0.0 OUT NOW!",
-      "identifier": "uncover-v5-release",
-      "caption": "The most advanced jailbreak tool yet. Now supporting iOS 11-13.5",
+      "title": "OSU NOW ADDED TO STOSSY REPO!",
+      "identifier": "osu-stossy-repo",
+      "caption": "Osu For IOS has now been added to Sidestore Or altstore if your using that",
       "tintColor": "#505050",
-      "imageURL": "https://i.imgur.com/DahJIZv.png",
+      "imageURL": "https://raw.githubusercontent.com/ppy/osu/master/osu.iOS/Assets.xcassets/AppIcon.appiconset/iPhoneApp3x.png",
       "appID": "science.xnu.undecimus",
-      "date": "2020-05-23",
-      "notify": false
+      "date": "2023-03-31",
+      "notify": true
     },
     {
       "title": "iNDS available for download.",
