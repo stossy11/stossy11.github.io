@@ -170,14 +170,14 @@
           "version": "1.0.0",
           "date": "2023-01-04",
           "downloadURL": "https://github.com/enmity-mod/tweak/releases/download/v2.1.4/Enmity.ipa",
-          "localizedDescription": "Version 1.10.8 fixes the cover art system, thus closing #190. ~~There also appears to be an issue with the previous Cydia release being corrupted, so hopefully, that is fixed in this version.~~\r\n\r\n**Full Changelog**\r\n- Fixed cover art system (#203). Thanks, @unlmtd.\r\n- Fixed compilation errors (#191). Thanks, @jdkula.",
+          "localizedDescription": "Enimty 1.0.0 allows you to install plugins for the Discord app and enjoy new functionality in the app. You can also install themes to change the look and appearance of the Discord app.",
           "size": 8553596
         },
         {
           "version": "1.0.0 Dev",
           "date": "2023-01-04",
           "downloadURL": "https://github.com/enmity-mod/tweak/releases/download/v2.1.4/Enmity.Development.ipa",
-          "localizedDescription": "Same one as before but Dev Version",
+          "localizedDescription": "Same one as before but Dev Version and has more unstable featues",
           "size": 33200000
         }
       ]
