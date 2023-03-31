@@ -42,34 +42,34 @@
       "appID": "com.google.ios.youtube"
     },
     {
-      "name": "PPSSPP",
-      "bundleIdentifier": "org.ppsspp.ppsspp",
-      "developerName": "Henrik Rydg\u00e5rd",
-      "version": "1.13.2",
-      "versionDate": "2022-09-18T23:59:49Z",
+      "name": "Osu!",
+      "bundleIdentifier": "sh.ppy.osulazer",
+      "developerName": "PPY on Github\u00e5rd",
+      "version": "2023.207.0",
+      "versionDate": "2023-09-18T23:59:49Z",
       "versionDescription": "# v1.13.2\n\n",
-      "downloadURL": "https://github.com/QuarkSources/ppsspp-builder/releases/download/v1.13.2/PPSSPP_v1.13.2.ipa",
-      "localizedDescription": "PPSSPP can run your PSP games on your iPhone and iPad in full HD resolution. It can even upscale textures that would otherwise be too blurry as they were made for the small screen of the original PSP. Even on modern iPhones and iPads, you can often run at double the original resolution.",
-      "iconURL": "https://i.imgur.com/JP0Fncv.png",
-      "tintColor": "#21486b",
+      "downloadURL": "https://github.com/ppy/osu/releases/download/2023.326.1/osu.iOS.ipa",
+      "localizedDescription": "A free-to-win rhythm game. Rhythm is just a click away! The future of osu! and the beginning of an open era! Currently known by and released under the release codename As in sharper than cutting-edge.",
+      "iconURL": "https://raw.githubusercontent.com/ppy/osu/master/osu.iOS/Assets.xcassets/AppIcon.appiconset/iPhoneApp3x.png",
+      "tintColor": "#5c9d9f",
       "size": 14509458,
       "screenshotURLs": [
-        "https://i.imgur.com/CWl6GgH.png",
-        "https://i.imgur.com/SxmN1M0.png",
-        "https://i.imgur.com/sGWgR6z.png",
-        "https://i.imgur.com/AFKTdmZ.png"
+        "https://user-images.githubusercontent.com/7114643/69855540-02ce0900-128c-11ea-806a-ff0f98f4bf6d.jpg",
+        "https://e0.pxfuel.com/wallpapers/19/221/desktop-wallpaper-you-get-a-really-nice-mobile-when-using-osu-lazer.jpg",
+        "https://i.imgur.com/G46MmiQ_d.webp?maxwidth=1520&fidelity=grand",
+        "https://i.imgur.com/wdLS7zS.jpg"
       ],
-      "subtitle": "PlayStation Portable games on iOS.",
-      "absoluteVersion": "1.13.2",
-      "appID": "org.ppsspp.ppsspp",
+      "subtitle": "A free-to-win rhythm game.",
+      "absoluteVersion": "2023.326.1",
+      "appID": "sh.ppy.osulazer",
       "versions": [
         {
-          "version": "1.13.2",
+          "version": "2023.326.1",
           "date": "2022-09-18T23:59:49Z",
-          "downloadURL": "https://github.com/QuarkSources/ppsspp-builder/releases/download/v1.13.2/PPSSPP_v1.13.2.ipa",
-          "localizedDescription": "# v1.13.2\n\n",
+          "downloadURL": "https://github.com/ppy/osu/releases/download/2023.326.1/osu.iOS.ipa",
+          "localizedDescription": "A free-to-win rhythm game. Rhythm is just a click away! The future of osu! and the beginning of an open era! Currently known by and released under the release codename As in sharper than cutting-edge.",
           "size": 14509458,
-          "absoluteVersion": "1.13.2"
+          "absoluteVersion": "2023.326.1"
         }
       ]
     },
