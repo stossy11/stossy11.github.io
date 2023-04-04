@@ -183,34 +183,33 @@
       ]
     },
     {
-      "name": "Odyssey",
-      "bundleIdentifier": "org.coolstar.odyssey",
-      "developerName": "Odyssey Team",
-      "subtitle": "A new jailbreak for a new era.",
-      "version": "1.4.2",
+      "name": "Retro Music Player",
+      "bundleIdentifier": "co.retromusic.app",
+      "developerName": "RetroMP3",
+      "subtitle": "Retro aims to bring back the iPod Classic experience to iOS and Android.",
+      "version": "Alpha v0.0.1",
       "versionDate": "2022-02-18",
-      "versionDescription": "- Update Sileo to 2.3\n- Replace Packix with Havoc as default repo",
-      "downloadURL": "https://github.com/Odyssey-Team/Odyssey/releases/download/1.4.2/Odyssey-1.4.2.ipa",
-      "localizedDescription": "Supporting iOS Versions: 13.0 - 13.7.\nOdyssey is the first jailbreak to be written almost entirely in Swift. Completely open source and welcomes community contributions and pull requests, as a tribute to the dearly departed s0uthwes and his continued optimism and faith in the project. Comes with the open source Procursus bootstrap, designed from the ground up with openness and compatiblity in mind. Along with a new tweak injection platform, libhooker.",
-      "iconURL": "https://theodyssey.dev/assets/images/icon.png",
-      "tintColor": "D287F4",
+      "versionDescription": "What works: Spotify (hopefully) Playlists are actually in the order as they appear in your library (as well as the songs in them) Themes (this is an overstatement) Exponential Scrolling! Thanks to @fritzlb",
+      "downloadURL": "https://github.com/stossy11/stossy11.github.io/releases/download/Beta/Retro.Music.Player.ipa",
+      "localizedDescription": "There's still a lot missing and quite a ways to go, but the core parts of the app have been rebuilt and I'm pretty happy with the progress thus far.",
+      "iconURL": "https://github.com/retromp3/retro/blob/main/assets/launcher/icon.png",
+      "tintColor": "#ADD8E6",
       "size": 27200000,
-      "beta": false,
+      "beta": true,
       "screenshotURLs": [
-        "https://theodyssey.dev/assets/images/ss-1.png",
-        "https://theodyssey.dev/assets/images/ss-2.png",
-        "https://theodyssey.dev/assets/images/ss-3.png"
+        "https://retromusic.co/assets/nostalgia.png",
+        "https://retromusic.co/assets/homepage3.png",
       ],
       "versions": [
         {
-          "version": "1.4.2",
+          "version": "Alpha v0.0.1",
           "date": "2022-02-18",
-          "downloadURL": "https://github.com/Odyssey-Team/Odyssey/releases/download/1.4.2/Odyssey-1.4.2.ipa",
-          "localizedDescription": "- Update Sileo to 2.3\n- Replace Packix with Havoc as default repo",
+          "downloadURL": "https://github.com/stossy11/stossy11.github.io/releases/download/Beta/Retro.Music.Player.ipa",
+          "localizedDescription": "What works: Spotify (hopefully) Playlists are actually in the order as they appear in your library (as well as the songs in them) Themes (this is an overstatement) Exponential Scrolling! Thanks to @fritzlb",
           "size": 27200000
         }
       ],
-      "appID": "org.coolstar.odyssey"
+      "appID": "co.retromusic.app"
     },
     {
       "name": "Play!",
