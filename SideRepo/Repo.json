@@ -75,7 +75,7 @@
     },
     {
       "name": "miniOS",
-      "bundleIdentifier": "com.minios.stossy",
+      "bundleIdentifier": "digital.jjs.miniOS",
       "developerName": "JosephShenton",
       "subtitle": "macOS Simulator for iOS.",
       "version": "1.0.0",
@@ -127,7 +127,7 @@
         {
           "version": "Melee",
           "date": "2022-06-14T20:54:11Z",
-          "downloadURL": "https://github.com/crypticplank/flappybird/releases/download/4.3/org.brandonplank.flappybird.ipa",
+          "downloadURL": "https://github.com/stossy11/stossy11.github.io/releases/download/Beta/iSSB.ipa",
           "localizedDescription": "ic",
           "size": 2099365,
           "absoluteVersion": "4.3"
@@ -136,7 +136,7 @@
     },
     {
       "name": "Enmity for Discord",
-      "bundleIdentifier": "net.emnity.discord",
+      "bundleIdentifier": "com.hammerandchisel.discord",
       "developerName": "Stossy11",
       "subtitle": "BetterDiscord For iOS",
       "version": "1.0.0",
