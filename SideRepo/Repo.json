@@ -106,7 +106,7 @@
     },
     {
       "name": "iSSB",
-      "bundleIdentifier": "com.stossy.issb",
+      "bundleIdentifier": "net.hollr.issb",
       "developerName": "Stossy11",
       "subtitle": "Super Smash Bros iOS",
       "version": "idk i think its melee or smth",
