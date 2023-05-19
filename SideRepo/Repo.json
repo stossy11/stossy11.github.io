@@ -192,7 +192,7 @@
       "versionDescription": "What works: Spotify (hopefully) Playlists are actually in the order as they appear in your library (as well as the songs in them) Themes (this is an overstatement) Exponential Scrolling! Thanks to @fritzlb",
       "downloadURL": "https://github.com/stossy11/stossy11.github.io/releases/download/Beta/Retro.Music.Player.ipa",
       "localizedDescription": "There's still a lot missing and quite a ways to go, but the core parts of the app have been rebuilt and I'm pretty happy with the progress thus far.",
-      "iconURL": "https://github.com/retromp3/retro/blob/main/assets/launcher/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/retromp3/retro/main/assets/launcher/icon.png",
       "tintColor": "#ADD8E6",
       "size": 27200000,
       "beta": true,
