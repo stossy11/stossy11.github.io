@@ -867,7 +867,7 @@
       "caption": "Super Mario 64 Allowed by nintendo on my Repo",
       "tintColor": "#fc2125",
       "imageURL": "https://ipa.cypwn.xyz/serve/icons/SuperMario64_60FPS_1.2.1.png",
-      "appID": "xyz.cypwn.sm64ios-60fps,
+      "appID": "xyz.cypwn.sm64ios-60fps",
       "date": "2023-05-22",
       "notify": true
     },
