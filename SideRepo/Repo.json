@@ -263,7 +263,7 @@
     {
       "name": "Super Mario 64",
       "bundleIdentifier": "xyz.cypwn.sm64ios-60fps",
-      "developerName": "Stossy11",
+      "developerName": "Nintendo",
       "subtitle": "Super Mario 64 60fps compiled for iOS",
       "version": "1.2.1",
       "versionDate": "2023-05-22",
@@ -281,7 +281,7 @@
         {
           "version": "1.2.1",
           "date": "2023-05-22",
-          "downloadURL": "https://github.com/litchie/dospad/releases/download/2.1/iDOS.ipa",
+          "downloadURL": "https://github.com/stossy11/stossy11.github.io/releases/download/Beta/SuperMario64_60FPS_1.2.1.ipa",
           "localizedDescription": "Latest release v1.2.1 of Super Mario 64 port for iOS. 60FPS",
           "size": 5704322
         }
