@@ -48,7 +48,7 @@
       "version": "2023.207.0",
       "versionDate": "2023-09-18T23:59:49Z",
       "versionDescription": "# v1.13.2\n\n",
-      "downloadURL": "https://github.com/ppy/osu/releases/download/2023.326.1/osu.iOS.ipa",
+      "downloadURL": "https://github.com/ppy/osu/releases/download/2023.513.0/osu.iOS.ipa",
       "localizedDescription": "A free-to-win rhythm game. Rhythm is just a click away! The future of osu! and the beginning of an open era! Currently known by and released under the release codename As in sharper than cutting-edge.",
       "iconURL": "https://raw.githubusercontent.com/ppy/osu/master/osu.iOS/Assets.xcassets/AppIcon.appiconset/iPhoneApp3x.png",
       "tintColor": "#5c9d9f",
@@ -60,13 +60,13 @@
         "https://i.imgur.com/wdLS7zS.jpg"
       ],
       "subtitle": "A free-to-win rhythm game.",
-      "absoluteVersion": "2023.326.1",
+      "absoluteVersion": "2023.513.0",
       "appID": "sh.ppy.osulazer",
       "versions": [
         {
           "version": "2023.326.1",
-          "date": "2022-09-18T23:59:49Z",
-          "downloadURL": "https://github.com/ppy/osu/releases/download/2023.326.1/osu.iOS.ipa",
+          "date": "2023-05-29",
+          "downloadURL": "https://github.com/ppy/osu/releases/download/2023.513.0/osu.iOS.ipa",
           "localizedDescription": "A free-to-win rhythm game. Rhythm is just a click away! The future of osu! and the beginning of an open era! Currently known by and released under the release codename As in sharper than cutting-edge.",
           "size": 14509458,
           "absoluteVersion": "2023.326.1"
