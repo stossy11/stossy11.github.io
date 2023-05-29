@@ -334,7 +334,7 @@
       "screenshotURLs": [
         "https://raw.githubusercontent.com/brandonplank/flappybird/main/demo/demo.gif",
         "https://raw.githubusercontent.com/brandonplank/flappybird/main/demo/demo.gif",
-        "https://raw.githubusercontent.com/brandonplank/flappybird/main/demo/demo.gif"
+        "https://raw.githubusercontent.com/brandonplank/flappybird/main/demo/demo.gif",
       ],
       "subtitle": "A 1:1 Flappy Bird Clone written 100% in swift!",
       "absoluteVersion": "4.3",
