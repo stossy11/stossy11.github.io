@@ -48,7 +48,7 @@
       "version": "2023.207.0",
       "versionDate": "2023-09-18T23:59:49Z",
       "versionDescription": "# v1.13.2\n\n",
-      "beta": "true",
+      "beta": true,
       "downloadURL": "https://github.com/ppy/osu/releases/download/2023.513.0/osu.iOS.ipa",
       "localizedDescription": "A free-to-win rhythm game. Rhythm is just a click away! The future of osu! and the beginning of an open era! Currently known by and released under the release codename As in sharper than cutting-edge.",
       "iconURL": "https://raw.githubusercontent.com/ppy/osu/master/osu.iOS/Assets.xcassets/AppIcon.appiconset/iPhoneApp3x.png",
