@@ -48,6 +48,7 @@
       "version": "2023.207.0",
       "versionDate": "2023-09-18T23:59:49Z",
       "versionDescription": "# v1.13.2\n\n",
+      "beta": "true",
       "downloadURL": "https://github.com/ppy/osu/releases/download/2023.513.0/osu.iOS.ipa",
       "localizedDescription": "A free-to-win rhythm game. Rhythm is just a click away! The future of osu! and the beginning of an open era! Currently known by and released under the release codename As in sharper than cutting-edge.",
       "iconURL": "https://raw.githubusercontent.com/ppy/osu/master/osu.iOS/Assets.xcassets/AppIcon.appiconset/iPhoneApp3x.png",
@@ -112,6 +113,7 @@
       "version": "idk i think its melee or smth",
       "versionDate": "2022-06-14T20:54:11Z",
       "versionDescription": "i think this is based on smash bros melee or smth",
+      "beta": true,
       "downloadURL": "https://github.com/stossy11/stossy11.github.io/releases/download/Beta/iSSB.ipa",
       "localizedDescription": "Super Smash Bros For iOS and it runs Great",
       "iconURL": "https://raw.githubusercontent.com/lufinkey/iSSB/944dfff57c84d6f148b259c128607279f5069942/Icon-72%402x.png",
@@ -369,6 +371,7 @@
       "localizedDescription": "Nintendo 3DS emulator for Apple devices based on Citra",
       "iconURL": "https://emuplace.github.io/images/nt_transparent.png",
       "tintColor": "#21486b",
+      "beta": true,
       "size": 16593403,
       "screenshotURLs": [
         "https://i.imgur.com/mXaNj7y.jpg",
