@@ -392,33 +392,30 @@
       ]
     },
     {
-      "name": "Ready",
-      "bundleIdentifier": "at.spiderlab.c64",
-      "developerName": "T-Pau",
-      "version": "1.6",
-      "versionDate": "2020-07-08T15:55:00Z",
-      "versionDescription": "# Release 1.6\n\n- Rename to Ready.\r\n\r\n- Add Commodore 16 and Plus/4 emulation.\r\n\r\n- Add ZX Spectrum emulation. Supported models are 16k, 48k, Specturm+, 128k, +2.\r\n\r\n- Add new app icons, one for each supported computer.\r\n",
-      "downloadURL": "https://github.com/T-Pau/Ready/releases/download/release-1.6/Ready-1.6.ipa",
-      "localizedDescription": "Ready is an open source emulator for the following 8 bit home computers:\n* Commodore 64\n* Commodore VIC-20\n* Commodore 16, Plus/4\n* Sinclair ZX Spectrum (16k, 48k, Spectrum+, 128k, +2)\n\nWith preliminary support for these computers:\n* Atari 600XL, 800XL\n* Commodore 128\n* Commander X16\n\nIt is based on atari800, fuse, Vice, and x16-emulator, which provide accurate emulation of many hardware variants and peripherals. Ready requires at least iPadOS 13.5.\n\nReady aims to approximate the feeling of using actual hardware. Rather than configuring abstract settings, you select hardware components. The software keyboard is a facsimile of the original, reflecting the different existing styles. Even the noise of the disk drive is emulated. The Library section offers a way to organize a large collection of games, demos and programs. The emulated hardware can be customized for each entry.\n\nThe Inbox provides a place to quickly try new programs. You can easily move the ones you want to keep to the library.\n\nTools mode allows attaching a cartridge like Action Replay or Final Cartridge and a collection of disks with your favorite tools, to help you dig into the programs, like back in the day.",
-      "iconURL": "https://i.imgur.com/S9WS2C2.png",
+      "name": "YTMusicUltimate",
+      "bundleIdentifier": "com.google.ios.youtubemusic",
+      "developerName": "Ginsu",
+      "version": "6.03.1",
+      "versionDate": "2023-06-06",
+      "versionDescription": "YTMusicUltimate 1.4.1 by Ginsu. Premium features unlocked.",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/YTMusicUltimate_v1.4.1_YTM6.03.1.ipa",
+      "localizedDescription": "YTMusicUltimate 1.4.1 by Ginsu. Premium features unlocked.",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/YTMusicUltimate_v1.4.1_YTM6.03.1.png",
       "tintColor": "#1c71c6",
       "size": 63972294,
       "screenshotURLs": [
-        "https://i.imgur.com/CN3fR34.png",
-        "https://i.imgur.com/q8ueM8W.png",
-        "https://i.imgur.com/2EHk0Wp.png",
-        "https://i.imgur.com/F3bXlmW.png"
+        "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/YTMusicUltimate_v1.4.1_YTM6.03.1\/YTMusicUltimate_v1.4.1_YTM6.03.1-0.png",
       ],
-      "subtitle": "8-bit games for your iPad.",
-      "absoluteVersion": "1.6",
+      "subtitle": "YTMusicUltimate 1.4.1 by Ginsu. Premium features unlocked.",
+      "absoluteVersion": "6.03.1",
       "versions": [
         {
-          "version": "1.6",
-          "date": "2020-07-08T15:55:00Z",
-          "downloadURL": "https://github.com/T-Pau/Ready/releases/download/release-1.6/Ready-1.6.ipa",
+          "version": "6.03.0",
+          "date": "2023-06-06",
+          "downloadURL": "https://ipa.cypwn.xyz/serve/icons/YTMusicUltimate_v1.4.1_YTM6.03.1.png",
           "localizedDescription": "# Release 1.6\n\n- Rename to Ready.\r\n\r\n- Add Commodore 16 and Plus/4 emulation.\r\n\r\n- Add ZX Spectrum emulation. Supported models are 16k, 48k, Specturm+, 128k, +2.\r\n\r\n- Add new app icons, one for each supported computer.\r\n",
           "size": 63972294,
-          "absoluteVersion": "1.6"
+          "absoluteVersion": "6.03.1"
         }
       ]
     },
